@@ -1,0 +1,26 @@
+Name : ALi Hazma Sabir
+      face Measurments : 
+  rightEye: {
+    x:294
+    y:294
+  }
+  leftEye: {
+    x:376
+    y:295
+  }
+  nose: {
+    x:337
+    y:321
+  }
+  leftEar: {
+    x:416
+    y:326
+  }
+  RightEar: {
+    x:249
+    y:323
+  }
+  Mouth: {
+    x:336
+    y:363
+  }

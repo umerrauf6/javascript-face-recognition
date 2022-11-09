@@ -1,0 +1,26 @@
+Name : Umar Farooq
+      face Measurments : 
+  rightEye: {
+    x:271
+    y:217
+  }
+  leftEye: {
+    x:358
+    y:213
+  }
+  nose: {
+    x:314
+    y:238
+  }
+  leftEar: {
+    x:409
+    y:242
+  }
+  RightEar: {
+    x:231
+    y:252
+  }
+  Mouth: {
+    x:319
+    y:282
+  }

@@ -1,0 +1,26 @@
+Name : Umer Rauf
+      face Measurments : 
+  rightEye: {
+    x:284
+    y:172
+  }
+  leftEye: {
+    x:373
+    y:166
+  }
+  nose: {
+    x:344
+    y:191
+  }
+  leftEar: {
+    x:413
+    y:197
+  }
+  RightEar: {
+    x:227
+    y:213
+  }
+  Mouth: {
+    x:349
+    y:240
+  }
